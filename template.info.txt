@@ -1,0 +1,8 @@
+base     dokuwiki-template
+author   Freifunk Bodensee
+author   Lilian Roller
+email    kommunikation@ffbsee.de
+date     2016-06-06
+name     FFBSee DokuWiki Template
+desc     DokuWiki's default template modified for ffbsee
+url      http://www.dokuwiki.org/template:dokuwiki
