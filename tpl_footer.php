@@ -9,6 +9,7 @@ if (!defined('DOKU_INC')) die();
 
 <!-- ********** FOOTER ********** -->
 <div id="dokuwiki__footer"><div class="pad">
+    <a href="https://ffbsee.de/impressum">Impressum</a>
     <?php tpl_license(''); // license text ?>
 
     <div class="buttons">
