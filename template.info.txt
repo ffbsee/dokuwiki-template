@@ -1,6 +1,6 @@
 base     dokuwiki-template
 author   Freifunk Bodensee
-author   Lilian Roller
+author   L3D
 email    kommunikation@ffbsee.de
 date     2016-06-06
 name     FFBSee DokuWiki Template

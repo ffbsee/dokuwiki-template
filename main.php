@@ -5,6 +5,7 @@
  * @link     http://dokuwiki.org/template
  * @author   Anika Henke <anika@selfthinker.org>
  * @author   Clarence Lee <clarencedglee@gmail.com>
+ * @author   Lilian Roller <l3d@see-base.de>
  * @license  GPL 2 (http://www.gnu.org/licenses/gpl.html)
  */
 
