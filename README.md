@@ -1,9 +1,9 @@
 # dokuwiki-template
 
 
-bodensee.freifunk.net ist ein DokuWiki und hat ein eigenes Template. Dieses Template hier ;-)
+[bodensee.freifunk.net](https://freifunk-bodensee.net) ist ein DokuWiki und hat ein eigenes Template. Dieses Template hier ;-)
 
-Hier hat jeder die möglichkeit das Design der Webseite zu ändern. schließlich kann jeder ein Pull Request machen!
+Hier hat jeder theoretisch die Möglichkeit das Design der Webseite zu ändern. Schließlich kann jeder ein [Pull Request](http://lmgtfy.com/?q=Pull+Request+GitHub) machen!
 
 
->> Das Template wird alle 15 Minuten aktuallisiert
+>> Änderungen werden täglich bei der Webseite übernommen!
