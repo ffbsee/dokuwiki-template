@@ -9,7 +9,12 @@ if (!defined('DOKU_INC')) die();
 
 <!-- ********** FOOTER ********** -->
 <div id="dokuwiki__footer"><div class="pad">
-    <a href="https://ffbsee.de/impressum">Impressum</a>
+
+    <a href="https://freifunk-bodensee.net/doku.php?id=anleitungen:inhaltsverzeichnis">Inhaltsverzeichnis</a>
+    |
+    <a href="https://freifunk-bodensee.net/spende"/>Spenden</a>
+    |
+    <a href="https://ffreifunk-bodensee.net/impressum">Impressum</a> 
     <?php tpl_license(''); // license text ?>
 
     <div class="buttons">
